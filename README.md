@@ -12,4 +12,4 @@ After install u can use this:
 python3 -m github_stars.github_stars [-l/--login] LOGIN
 ```
 	
-#####[-l/--login] - is required argument
+[-l/--login] - is required argument
